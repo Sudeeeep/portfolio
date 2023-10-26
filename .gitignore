@@ -1,0 +1,12 @@
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+node_modules/
+
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
