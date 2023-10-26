@@ -15,3 +15,9 @@ body {
 .btn-secondary:hover {
   background-color: $primary;
 }
+
+@media (max-width: 768px) {
+  .nav-item:hover {
+    background-color: #9033c2;
+  }
+}
