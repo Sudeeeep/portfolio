@@ -1,4 +1,5 @@
 import "dotenv/config";
+import * as bootstrap from "bootstrap";
 
 const form = document.querySelector("form");
 const firstName = document.getElementById("firstName");
